@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":213:{a:2:{s:7:"defects";a:1:{s:53:"CodeExperts\Aritimetico\SubtracaoTeste::testSubtracao";i:3;}s:5:"times";a:2:{s:19:"SomaTeste::testSoma";d:0.006;s:53:"CodeExperts\Aritimetico\SubtracaoTeste::testSubtracao";d:0.023;}}}
